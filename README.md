@@ -8,7 +8,7 @@ local animTime = 0.5
 
 local startCoordination = button.Rotation
 
-local TweenSevice = game:GetService("TweenService")
+local TweenService = game:GetService("TweenService")
 
 local TweenInfo1 = TweenInfo.new(
     animTime,
